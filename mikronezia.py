@@ -1,6 +1,5 @@
 #Juhász Roland, Szoft I N, 2021-01-12
 
-from os import altsep, defpath
 from country import Country
 from typing import List 
 
@@ -131,6 +130,6 @@ mikro.write_one_word()
 
 #Ezzel a countyn belül az első sorban lévő country-t megnézi e, hogy több szavas-e.
 #91-95 sorra vonatkozik. 
-#es = mikro.is_one_word(mikro.countries[1])   
+#res = mikro.is_one_word(mikro.countries[1])   
 #print('res:',res)
 
