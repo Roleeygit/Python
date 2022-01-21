@@ -1,0 +1,9 @@
+No:Név:Terület:Méret (hektár):Eredmény (tonna):Év
+1:búza:Taros:70:294,0:2017
+2:árpa:Deres:58:324,8:2017
+3:búza:Gerinces:123:639,6:2017
+4:zab:Aranyos:98:382,2:2017
+5:búza:Pörc:83:365,2:2017
+6:búza:Csendes:66:475,2:2017
+7:búza:Ferences:82:369,0:2017
+8:árpa:Csicsergő:91:591,5:2017
